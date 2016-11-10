@@ -11,8 +11,8 @@
         android:layout_height="match_parent"
         android:layout_weight="1"/>
 
-    <android.support.v7.widget.RecyclerView
-        android:id="@+id/rv_gallery_container"
+    <FrameLayout
+        android:id="@+id/fl_gallery_container"
         android:layout_width="0dp"
         android:layout_height="match_parent"
         android:layout_weight="1"/>
